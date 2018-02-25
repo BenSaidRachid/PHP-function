@@ -1,5 +1,5 @@
 # PHP-function
-Some Php function recoded
+Some Php functions recoded
 
 -array_key_exists
 
