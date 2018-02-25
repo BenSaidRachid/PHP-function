@@ -1,4 +1,4 @@
-# PHP-function
+# PHP-functions
 Some Php functions recoded
 
 -array_key_exists
